@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Deer",
+        "value": 30
+    },
+    {
+        "name": "Rabbit",
+        "value": 15
+    },
+    {
+        "name": "Bear",
+        "value": 100
+    }
+]

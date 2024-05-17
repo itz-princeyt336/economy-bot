@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Magic Wand",
+        "description": "A wand imbued with magical powers.",
+        "price": 200
+    },
+    {
+        "name": "Healing Potion",
+        "description": "A potion that heals your wounds.",
+        "price": 50
+    },
+    {
+        "name": "Steel Sword",
+        "description": "A sword made of steel.",
+        "price": 150
+    }
+]

@@ -1,0 +1,20 @@
+{
+  "1203605618745933880": {
+    "cowoncy": 135,
+    "zoo": [
+      {
+        "name": "Deer",
+        "quantity": 7
+      },
+      {
+        "name": "Rabbit",
+        "quantity": 15
+      },
+      {
+        "name": "Bear",
+        "quantity": 4
+      }
+    ],
+    "inventory": []
+  }
+}
