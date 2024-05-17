@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="https://discord.gg/E56eZdNjK4">
-    <img src="https://discordapp.com/api/guilds/809362745354354688/widget.png?style=shield" alt="Discord Server">
-  </a>
-	  </p>
-
-<p align="center">
 	  Welcome to Best Economy Bot  </p>
 
 Please be aware of a few things. You must use `Node 20.13.1` and up. You will also be required to have a `TOKEN` for this to work. Please also keep in mind that there is currently **1** branch, ``Main``. 
